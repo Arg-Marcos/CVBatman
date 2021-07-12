@@ -1,0 +1,47 @@
+html {
+    font-family: 'Times New Roman';
+    line-height: 1.5;
+}
+
+header {
+    background-color: #E5E5E5;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+.logo-vitae {
+    text-align: center;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {font-size: 20px;
+
+}
+
+h1, h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-weight: 700;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+main{
+    margin: 50px auto; 
+    max-width: 1041px;
+}
+
+footer{
+    background-color: #005677;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
